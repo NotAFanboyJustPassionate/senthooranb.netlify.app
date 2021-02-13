@@ -22,6 +22,7 @@ body{
     border-radius: 50%;
     width: 184px;
     height: 142px;
+    box-shadow: rgb(23, 21, 101) 0px 1px 10px 4px;
 }
 
 a{
