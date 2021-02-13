@@ -1,0 +1,36 @@
+.site-header{
+    background-color: rgb(6, 20, 47);
+    color: rgb(134, 142, 162);
+    height: 100 vh;
+    font-family: monospace;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    margin: 0;
+}
+
+.site-header-content{
+    margin: 1rem;
+}
+
+.profile-pic{
+    border-radius: 50%;
+    width: 184px;
+    height: 142px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(134, 142, 162);
+    opacity: 0.8;
+    text-decoration: underline;
+}
+
+a:hover{
+    opacity: 1;
+}
